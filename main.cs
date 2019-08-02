@@ -63,6 +63,13 @@ class MRManagement {
 
 			return;
 		}
+
+		MessageBox.Show(
+			"Could not find MixedReality device.\n\nPlease check cable connection",
+			"Could not find MixedReality device",
+			MessageBoxButtons.OK,
+			MessageBoxIcon.Asterisk
+		);
 	}
 }
 
