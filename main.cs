@@ -2,7 +2,7 @@ using System;
 using System.Management;
 using System.Windows.Forms;
 
-class MRManagement {
+class MRSwitcher {
 	public static void Main(string[] Args) {
 		if (Args.Length != 1) {
 			MessageBox.Show(

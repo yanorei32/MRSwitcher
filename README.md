@@ -1,6 +1,10 @@
-# MR Management
+# MR Switcher
 
 Enable / Disable tool for MixedReality devices.
+
+Run `MR-Enable.bat` and `MR-Disable.bat`
+
+Or
 
 ```bat
 MR [Enable|Disable|Toggle]
@@ -12,8 +16,8 @@ MR [Enable|Disable|Toggle]
  - Cygwin / GNU Make
 
 ```bash
-git clone https://github.com/yanorei32/MRManagement
-cd MRManagement
+git clone https://github.com/yanorei32/MRSwitcher
+cd MRSwitcher
 make
 ```
 
