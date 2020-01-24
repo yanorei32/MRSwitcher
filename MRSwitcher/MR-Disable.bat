@@ -1,0 +1,1 @@
+../launcher/MR-Disable.bat

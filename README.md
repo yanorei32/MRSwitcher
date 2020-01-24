@@ -19,6 +19,7 @@ MR [Enable|Disable|Toggle]
 git clone https://github.com/yanorei32/MRSwitcher
 cd MRSwitcher
 make
+make genzip # if you need zip file.
 ```
 
 ## Install
