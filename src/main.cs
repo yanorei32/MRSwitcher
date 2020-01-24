@@ -49,11 +49,11 @@ class MRSwitcher {
 			if (
 				MessageBox.Show(
 					String.Format(
-						"Found Device: {0}\nCallMethod: {1}\n\nIs it OK?",
+						"Device was found: {0}\nCallMethod: {1}\n\nIs it OK?",
 						mo.GetPropertyValue("Name").ToString(),
 						Args[0]
 					),
-					"Found the MixedReality Device",
+					"MixedReality device was found",
 					MessageBoxButtons.YesNo,
 					MessageBoxIcon.Question
 				) == DialogResult.Yes
@@ -65,8 +65,8 @@ class MRSwitcher {
 		}
 
 		MessageBox.Show(
-			"Could not find MixedReality device.\n\nPlease check cable connection",
-			"Could not find MixedReality device",
+			"Could not find any MixedReality devices.\n\nPlease check cable connection.",
+			"Could not find any MixedReality devices.",
 			MessageBoxButtons.OK,
 			MessageBoxIcon.Asterisk
 		);
