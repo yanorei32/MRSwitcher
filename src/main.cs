@@ -66,7 +66,7 @@ class MRSwitcher {
 
 		MessageBox.Show(
 			"Could not find any MixedReality devices.\n\nPlease check cable connection.",
-			"Could not find any MixedReality devices.",
+			"Could not find any MixedReality devices",
 			MessageBoxButtons.OK,
 			MessageBoxIcon.Asterisk
 		);
