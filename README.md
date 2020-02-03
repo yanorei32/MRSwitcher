@@ -8,7 +8,8 @@ Enable / Disable tool for MixedReality devices.
 
 ## CUI Tool (Admin required)
 ```bat
-mr-ctl [Enable|Disable|Toggle]
+mr-ctl [enable|disable] <device id>
+mr-ctl ls
 ```
 
 ## Build
