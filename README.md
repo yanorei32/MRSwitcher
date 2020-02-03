@@ -2,12 +2,13 @@
 
 Enable / Disable tool for MixedReality devices.
 
-Run `MR-Enable.bat` and `MR-Disable.bat`
+## Quick Launch
+`mr-enable.exe` and `mr-disable.exe`
 
-Or
 
+## CUI Tool (Admin required)
 ```bat
-MR [Enable|Disable|Toggle]
+mr-ctl [Enable|Disable|Toggle]
 ```
 
 ## Build

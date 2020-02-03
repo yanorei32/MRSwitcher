@@ -1,1 +1,0 @@
-../launcher/MR-Enable.bat
