@@ -23,6 +23,6 @@ make
 make genzip # if you need zip file.
 ```
 
-## Install
-Copy `MR.exe` to `C:\Windows\System32`
+## Install CUI Tool
+Copy `mr-ctl.exe` to `C:\Windows\System32`
 
