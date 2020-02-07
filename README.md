@@ -2,9 +2,17 @@
 
 Enable / Disable tool for MixedReality devices.
 
-## Quick Launch
-`mr-enable.exe` and `mr-disable.exe`
+![image](https://user-images.githubusercontent.com/11992915/74040279-4d21e380-49bb-11ea-8c85-3872bb749a28.png)
 
+## Quick Launch
+Run `mr-enable.exe` / `mr-disable.exe`
+
+## GUI Tool
+Run `mr-ctl-gui.exe`
+
+![image](https://user-images.githubusercontent.com/11992915/74040108-fa482c00-49ba-11ea-9010-3b8824595412.png)
+
+\* MEDIA device class is displayed in this image, but in fact Holographic device class.
 
 ## CUI Tool (Admin required)
 ```bat
