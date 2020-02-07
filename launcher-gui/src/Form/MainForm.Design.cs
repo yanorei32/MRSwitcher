@@ -105,11 +105,12 @@ partial class MainForm : Form {
 		/*\
 		|*| DeviceId column
 		\*/
-		this.deviceId.Text		= "DeivceID:\n";
-		this.deviceId.AutoSize	= false;
-		this.deviceId.Location	= new Point(curW, curH);
-		this.deviceId.Size		= new Size(imgW, 50);
-		this.deviceId.Font		= new Font("Consolas", 9F);
+		this.deviceId.Text			= "DeivceID:\n";
+		this.deviceId.AutoSize		= false;
+		this.deviceId.Location		= new Point(curW, curH);
+		this.deviceId.Size			= new Size(imgW, 50);
+		this.deviceId.Font			= new Font("Consolas", 9F);
+		this.deviceId.UseMnemonic	= false;
 
 		curH += this.deviceId.Size.Height;
 		curH += padding;
