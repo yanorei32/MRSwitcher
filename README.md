@@ -4,6 +4,9 @@ Enable / Disable tool for MixedReality devices.
 
 ![image](https://user-images.githubusercontent.com/11992915/74040279-4d21e380-49bb-11ea-8c85-3872bb749a28.png)
 
+## Download latest release build
+[From GitHub](https://github.com/Yanorei32/MRSwitcher/releases/latest)
+
 ## Quick Launch
 Run `mr-enable.exe` / `mr-disable.exe`
 
